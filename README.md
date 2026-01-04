@@ -1,4 +1,3 @@
 # VIDEO BLOG (VLOG) to UTMDigital Open Day
-On the day of the industry talk, we gained valuable exposure to real-world applications of Data Analytics, Infrastructure, and SAP in the ICT industry. The session provided meaningful insights into how data is collected, analyzed, and used to support business decision-making, as well as how strong IT infrastructure ensures system reliability and performance. The speaker also explained the importance of SAP as an integrated enterprise system that helps organizations manage operations efficiently.
 
-Through this talk, we learned about the skills and knowledge required by ICT professionals, the challenges faced in the industry, and how technology plays a crucial role in driving digital transformation. This poster summarizes the key points discussed during the session and reflects on how the talk enhanced our understanding of ICT careers and motivated us to better prepare for future roles in the technology industry.
+On 28 of October, we attend UTMDIGITAL open day.
